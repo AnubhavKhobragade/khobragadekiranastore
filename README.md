@@ -1,4 +1,4 @@
-# GreenBasket — Grocery Store
+# Khobragade Kirana — Grocery Store
 
 A small ASP.NET Core 10 grocery store demo with product management, categories, cart, checkout, stock updates and order history. No external NuGet packages are required.
 
